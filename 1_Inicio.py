@@ -1,10 +1,10 @@
-import pyodbc
+#import pyodbc
 import streamlit as st
 import pandas as pd
 from io import BytesIO
 import locale
-import plotly.express as px
-import dash
+#import plotly.express as px
+#import dash
 import warnings
 import subprocess
 import os
